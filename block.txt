@@ -3,10 +3,6 @@ advertising-api-eu.amazon.com
 cdn.luckyorange.com
 w1.luckyorange.com
 ads.facebook.com
-rr2---sn-fpgxapo3-uixl.googlevideo.com
-rr1---sn-fpgxapo3-uixe.googlevideo.com
-rr3---sn-fpgxapo3-uixe.googlevideo.com
-rr4---sn-fpgxapo3-uixe.googlevideo.com
 analyticsengine.s3.amazonaws.com
 samsung-com.112.2o7.net
 metrics1.data.hicloud.com
