@@ -8,3 +8,4 @@ rr6---sn-fpgxapo3-uixe.googlevideo.com
 rr1---sn-fpgxapo3-uixe.googlevideo.com
 rr3---sn-fpgxapo3-uixe.googlevideo.com
 rr4---sn-fpgxapo3-uixe.googlevideo.com
+analyticsengine.s3.amazonaws.com
