@@ -3,3 +3,4 @@ advertising-api-eu.amazon.com
 cdn.luckyorange.com
 w1.luckyorange.com
 ads.facebook.com
+rr2---sn-fpgxapo3-uixl.googlevideo.com
